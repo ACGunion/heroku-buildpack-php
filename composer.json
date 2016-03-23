@@ -17,4 +17,11 @@
         "bin/heroku-php-apache2",
         "bin/heroku-php-nginx"
     ]
+    ],
+"require" : {
+"nginx":"~1.8.0"
+"php":"~7.0.3"
+},
+"require-dev": {
+}
 }
